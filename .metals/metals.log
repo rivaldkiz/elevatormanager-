@@ -1,0 +1,409 @@
+2026.11.06 23:28:40 INFO  Started: Metals version 1.6.9 in folders 'C:\Users\franc\Desktop\elevatormanager' for client Visual Studio Code 1.140.0.
+2026.11.06 23:28:40 INFO  Memory monitor started
+2026.11.06 23:28:41 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.11.06 23:28:41 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+Nov 06, 2026 11:28:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4
+Nov 06, 2026 11:28:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+Nov 06, 2026 11:28:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5
+Nov 06, 2026 11:28:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2026.11.06 23:28:45 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.06 23:28:45 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.06 23:28:45 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+Nov 06, 2026 11:28:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6
+2026.11.06 23:28:45 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.06 23:28:57 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.06 23:28:57 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\.g8\form\app\controllers\$model__Camel$Controller.scala. Using presentation compiler with project's scala-library version: 3.3.8
+Nov 06, 2026 11:28:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 16
+2026.11.06 23:28:57 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\.g8\form\app\controllers\$model__Camel$Controller.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.06 23:28:57 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\.g8\form\app\controllers\$model__Camel$Controller.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.06 23:29:12 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\.g8\form\app\controllers\$model__Camel$Controller.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.06 23:29:12 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\.g8\form\app\views\$model__camel$\form.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+Nov 06, 2026 11:29:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 29
+2026.11.06 23:29:12 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\.g8\form\app\views\$model__camel$\form.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.06 23:29:40 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\.g8\form\app\views\$model__camel$\form.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.06 23:29:53 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\.g8\form\app\views\$model__camel$\form.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+Nov 06, 2026 11:29:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 40
+2026.11.06 23:29:53 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\.g8\form\app\views\$model__camel$\form.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.06 23:31:41 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\.g8\form\app\views\$model__camel$\form.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.06 23:32:03 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.06 23:32:03 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.06 23:32:03 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.06 23:32:03 WARN  Could not find semantic tokens for: file:///C:/Users/franc/Desktop/elevatormanager/project/plugins.sbt
+2026.11.06 23:32:35 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.8
+Nov 06, 2026 11:35:24 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 06, 2026 11:35:26 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 07, 2026 11:49:20 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.11.07 11:50:01 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\.g8\form\app\controllers\$model__Camel$Controller.scala. Using presentation compiler with project's scala-library version: 3.3.8
+Nov 07, 2026 11:50:01 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 61
+2026.11.07 11:50:01 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\.g8\form\app\controllers\$model__Camel$Controller.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 11:50:01 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\.g8\form\app\controllers\$model__Camel$Controller.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 11:50:07 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\.g8\form\app\controllers\$model__Camel$Controller.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 11:50:07 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\.g8\form\app\controllers\$model__Camel$Controller.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 11:50:13 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\.g8\form\app\controllers\$model__Camel$Controller.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 11:50:15 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\.g8\form\app\controllers\$model__Camel$Controller.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 11:50:15 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\.g8\form\app\controllers\$model__Camel$Controller.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 11:50:16 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\.g8\form\app\controllers\$model__Camel$Controller.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 11:50:16 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\.g8\form\app\controllers\$model__Camel$Controller.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 11:50:17 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\.g8\form\app\controllers\$model__Camel$Controller.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 11:50:17 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\.g8\form\app\controllers\$model__Camel$Controller.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 11:50:17 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\.g8\form\app\controllers\$model__Camel$Controller.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 11:50:20 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\.g8\form\app\controllers\$model__Camel$Controller.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 11:50:24 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\.g8\form\app\controllers\$model__Camel$Controller.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 11:50:27 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\.g8\form\app\controllers\$model__Camel$Controller.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 11:50:29 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\.g8\form\app\controllers\$model__Camel$Controller.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 11:50:47 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\.g8\form\app\controllers\$model__Camel$Controller.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 11:50:47 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\.g8\form\app\controllers\$model__Camel$Controller.scala. Using presentation compiler with project's scala-library version: 3.3.8
+Nov 07, 2026 11:51:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 113
+Nov 07, 2026 11:51:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 114
+2026.11.07 11:51:26 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\.g8\form\app\controllers\$model__Camel$Controller.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 11:51:28 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\build.sbt. Using presentation compiler with project's scala-library version: 3.3.8
+Nov 07, 2026 11:51:28 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 159
+2026.11.07 11:51:28 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\build.sbt. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 11:51:28 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\build.sbt. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 11:51:30 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\build.sbt. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 11:51:30 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\.g8\form\app\controllers\$model__Camel$Controller.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 11:51:31 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\.g8\form\app\controllers\$model__Camel$Controller.scala. Using presentation compiler with project's scala-library version: 3.3.8
+Nov 07, 2026 11:51:31 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 167
+2026.11.07 11:51:30 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\.g8\form\app\controllers\$model__Camel$Controller.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 11:52:19 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\.g8\form\app\controllers\$model__Camel$Controller.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 11:52:31 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\.g8\form\app\controllers\$model__Camel$Controller.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 11:52:31 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\.g8\form\test\controllers\$model__Camel$ControllerSpec.scala. Using presentation compiler with project's scala-library version: 3.3.8
+Nov 07, 2026 11:52:31 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 180
+2026.11.07 11:52:31 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\.g8\form\test\controllers\$model__Camel$ControllerSpec.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 11:52:31 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\.g8\form\test\controllers\$model__Camel$ControllerSpec.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 11:52:41 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\.g8\form\test\controllers\$model__Camel$ControllerSpec.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 11:52:41 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\.g8\form\test\controllers\$model__Camel$ControllerSpec.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 11:52:41 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\.g8\form\test\controllers\$model__Camel$ControllerSpec.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 11:52:42 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\.g8\form\test\controllers\$model__Camel$ControllerSpec.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 11:52:42 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\.g8\form\test\controllers\$model__Camel$ControllerSpec.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 11:52:42 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\.g8\form\test\controllers\$model__Camel$ControllerSpec.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 11:52:42 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\.g8\form\test\controllers\$model__Camel$ControllerSpec.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 11:52:43 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\.g8\form\test\controllers\$model__Camel$ControllerSpec.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 11:52:43 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\.g8\form\test\controllers\$model__Camel$ControllerSpec.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 11:52:45 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\.g8\form\test\controllers\$model__Camel$ControllerSpec.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 11:52:45 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\.g8\form\test\controllers\$model__Camel$ControllerSpec.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 11:52:48 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\.g8\form\test\controllers\$model__Camel$ControllerSpec.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 11:52:49 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\.g8\form\test\controllers\$model__Camel$ControllerSpec.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 11:53:08 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\.g8\form\test\controllers\$model__Camel$ControllerSpec.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 11:53:08 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\.g8\form\test\controllers\$model__Camel$ControllerSpec.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 11:53:08 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\.g8\form\test\controllers\$model__Camel$ControllerSpec.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 11:53:08 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\.g8\form\test\controllers\$model__Camel$ControllerSpec.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 11:53:24 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\.g8\form\test\controllers\$model__Camel$ControllerSpec.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 11:53:41 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\.g8\form\app\views\$model__camel$\form.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 11:53:41 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\.g8\form\app\views\$model__camel$\form.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 11:53:54 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\.g8\form\app\views\$model__camel$\form.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 11:53:56 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\.g8\form\app\views\$model__camel$\form.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 11:54:09 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\.g8\form\app\views\$model__camel$\form.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 11:54:12 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\.g8\form\app\views\$model__camel$\form.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 11:54:15 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\.g8\form\app\views\$model__camel$\form.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+Nov 07, 2026 11:54:15 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 249
+2026.11.07 11:54:15 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\.g8\form\app\views\$model__camel$\form.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 11:54:18 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\.g8\form\app\views\$model__camel$\form.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 11:58:58 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\.g8\form\app\views\$model__camel$\form.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:01:57 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\controllers\HomeController.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:01:57 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\controllers\HomeController.scala. Using presentation compiler with project's scala-library version: 3.3.8
+Nov 07, 2026 12:01:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 261
+2026.11.07 12:01:57 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\controllers\HomeController.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:01:58 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\controllers\HomeController.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:05:29 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\controllers\HomeController.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:05:29 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:05:29 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:05:42 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:05:42 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+Nov 07, 2026 12:05:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 284
+2026.11.07 12:05:42 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:05:43 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:05:48 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:05:48 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:05:51 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:05:53 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:05:53 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:05:53 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:05:55 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:06:01 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:06:02 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:06:07 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:06:08 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:06:08 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:06:10 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:06:10 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:06:11 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:06:11 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:06:11 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:06:14 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:06:14 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:06:15 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:06:17 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:06:23 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:06:23 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:06:23 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:06:25 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:06:26 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:06:26 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:06:28 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:06:28 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:06:33 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:06:36 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:06:40 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:06:42 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:06:44 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:06:47 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:06:54 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:06:56 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:06:56 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:06:56 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:07:01 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:07:01 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:07:04 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:07:05 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:07:05 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:07:06 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:07:06 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:07:07 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:07:07 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:07:08 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:07:08 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:07:10 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:07:12 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:07:12 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:07:12 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:07:13 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:07:13 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:07:13 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:07:17 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:07:19 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:07:24 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:07:42 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:07:50 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:08:16 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:08:23 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+Exception in thread "pool-115-thread-1" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:208)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2026.11.07 12:08:23 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:08:24 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:08:27 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:08:27 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:08:29 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:08:30 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:08:40 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:08:42 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:08:43 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:08:43 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:08:43 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:08:45 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:08:47 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+Nov 07, 2026 12:08:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 484
+2026.11.07 12:08:51 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+Nov 07, 2026 12:08:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 489
+2026.11.07 12:08:51 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:08:54 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:08:54 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:08:55 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:08:55 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:08:57 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:08:57 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:08:58 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:09:02 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:09:05 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:09:05 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:09:05 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:09:08 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:19:53 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:19:53 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:19:53 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:19:53 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:19:56 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+Nov 07, 2026 12:19:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 527
+2026.11.07 12:19:56 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:19:58 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:19:58 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:20:01 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+Nov 07, 2026 12:20:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 538
+2026.11.07 12:20:01 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:20:01 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:20:02 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:20:06 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+Nov 07, 2026 12:20:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 548
+2026.11.07 12:20:06 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:20:10 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:20:11 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:20:12 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:20:14 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:20:16 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:20:19 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:20:19 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:20:19 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:20:20 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:20:24 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:20:24 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:20:29 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+Nov 07, 2026 12:20:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 586
+2026.11.07 12:20:29 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+Nov 07, 2026 12:20:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 588
+2026.11.07 12:20:29 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 12:20:30 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 19:32:02 INFO  scalafmt: excluded C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html (to format this file, update `project.excludeFilters` in .scalafmt.conf)
+Nov 07, 2026 7:39:02 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.11.07 19:39:02 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 19:46:48 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:06:16 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+Nov 07, 2026 8:06:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 601
+2026.11.07 20:06:16 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:06:16 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:06:18 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+Nov 07, 2026 8:06:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 611
+2026.11.07 20:06:18 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:06:18 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:06:18 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:06:24 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:06:24 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:06:24 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:09:12 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:09:12 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:09:12 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:10:01 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:10:04 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:10:04 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:10:04 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:10:04 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:10:05 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:10:05 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:10:07 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:10:08 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:10:08 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:10:11 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:10:11 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:10:11 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:10:11 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:10:12 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:10:12 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+Nov 07, 2026 8:10:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 709
+2026.11.07 20:10:12 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:10:12 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:10:12 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:10:12 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:10:13 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:10:13 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:10:13 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:10:13 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:10:13 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:10:14 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:10:14 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:10:14 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:10:15 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:10:15 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:10:15 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:10:17 INFO  scalafmt: excluded C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html (to format this file, update `project.excludeFilters` in .scalafmt.conf)
+2026.11.07 20:10:17 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:10:33 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:11:03 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+Exception in thread "pool-172-thread-1" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:208)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2026.11.07 20:11:03 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:11:03 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:11:05 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:18:47 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:23:15 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:23:15 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+Nov 07, 2026 8:23:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 773
+2026.11.07 20:23:15 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:23:18 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:23:18 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:23:19 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:23:19 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:23:21 INFO  scalafmt: excluded C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html (to format this file, update `project.excludeFilters` in .scalafmt.conf)
+2026.11.07 20:23:21 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:23:29 INFO  scalafmt: excluded C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html (to format this file, update `project.excludeFilters` in .scalafmt.conf)
+2026.11.07 20:23:33 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:23:34 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:23:34 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:23:34 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:23:54 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:23:54 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:23:56 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:23:56 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:23:56 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:23:57 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:23:57 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:23:58 INFO  scalafmt: excluded C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html (to format this file, update `project.excludeFilters` in .scalafmt.conf)
+2026.11.07 20:23:58 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:27:45 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:27:45 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:27:45 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:27:46 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:27:46 INFO  scalafmt: excluded C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html (to format this file, update `project.excludeFilters` in .scalafmt.conf)
+2026.11.07 20:28:06 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:40:41 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\controllers\HomeController.scala. Using presentation compiler with project's scala-library version: 3.3.8
+Nov 07, 2026 8:40:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 857
+2026.11.07 20:40:41 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\controllers\HomeController.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:40:41 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\controllers\HomeController.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:40:42 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\controllers\HomeController.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:40:42 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\controllers\HomeController.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:40:45 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\controllers\HomeController.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:40:47 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\controllers\HomeController.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:40:49 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\controllers\HomeController.scala. Using presentation compiler with project's scala-library version: 3.3.8
+Nov 07, 2026 8:40:50 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.11.07 20:40:50 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\controllers\HomeController.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:40:57 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\controllers\HomeController.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:41:00 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:41:00 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:41:00 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:41:01 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+Nov 07, 2026 8:41:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 883
+2026.11.07 20:41:01 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:41:01 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:41:03 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:41:03 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:41:03 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\index.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:41:07 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:41:07 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:41:07 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.07 20:42:39 INFO  Shutting down server
+2026.11.07 20:42:39 INFO  Memory monitor stopped
+2026.11.07 20:42:39 INFO  shutting down Metals
+2026.11.07 20:42:39 INFO  Exiting server
