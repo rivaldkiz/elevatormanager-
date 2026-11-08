@@ -407,3 +407,58 @@ WARNING: Unmatched cancel notification for request id 883
 2026.11.07 20:42:39 INFO  Memory monitor stopped
 2026.11.07 20:42:39 INFO  shutting down Metals
 2026.11.07 20:42:39 INFO  Exiting server
+2026.11.08 20:39:21 INFO  Started: Metals version 1.6.9 in folders 'C:\Users\franc\Desktop\elevatormanager' for client Visual Studio Code 1.145.2.
+2026.11.08 20:39:21 INFO  Memory monitor started
+2026.11.08 20:39:22 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.11.08 20:39:44 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+Nov 08, 2026 8:39:46 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 08, 2026 8:39:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2026.11.08 20:39:47 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+Nov 08, 2026 8:39:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+2026.11.08 20:39:47 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.08 20:39:47 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.08 20:39:52 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\main.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.08 20:49:37 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\controllers\HomeController.scala. Using presentation compiler with project's scala-library version: 3.3.8
+Nov 08, 2026 8:49:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 17
+2026.11.08 20:49:38 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\controllers\HomeController.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.08 20:49:37 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\controllers\HomeController.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.08 20:49:38 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\controllers\HomeController.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.08 20:49:38 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\controllers\HomeController.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.08 20:49:41 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\controllers\HomeController.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.08 20:49:42 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\controllers\HomeController.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.08 20:49:42 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\controllers\HomeController.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.08 20:49:43 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\controllers\HomeController.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.08 20:49:45 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\controllers\HomeController.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.08 20:49:45 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\controllers\HomeController.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.08 21:54:05 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\controllers\HomeController.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.08 21:54:05 WARN  no build target for: C:\Users\franc\Desktop\elevatormanager\app\controllers\HomeController.scala
+Nov 08, 2026 9:54:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 50
+2026.11.08 21:54:05 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\controllers\HomeController.scala. Using presentation compiler with project's scala-library version: 3.3.8
+Nov 08, 2026 9:54:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 52
+2026.11.08 21:54:05 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\controllers\HomeController.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.08 21:54:05 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\controllers\HomeController.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.08 21:54:09 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\controllers\HomeController.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.08 21:54:12 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\controllers\HomeController.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.08 21:54:14 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\controllers\HomeController.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.08 21:54:14 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\controllers\HomeController.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.08 21:54:15 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\controllers\HomeController.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.08 21:54:15 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\controllers\HomeController.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.08 21:54:16 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\controllers\HomeController.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.08 21:54:17 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\controllers\HomeController.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.08 21:58:55 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\controllers\HomeController.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.08 21:58:55 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\controllers\HomeController.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.08 22:19:33 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\controllers\HomeController.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.08 22:19:50 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\controllers\HomeController.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.08 22:21:18 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\controllers\AuthController.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.08 22:21:18 WARN  Could not find semantic tokens for: file:///C:/Users/franc/Desktop/elevatormanager/app/controllers/AuthController.scala
+2026.11.08 22:31:59 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\components\ui\button.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.08 22:31:59 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\components\ui\button.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.08 22:31:59 INFO  scalafmt: excluded C:\Users\franc\Desktop\elevatormanager\app\views\components\ui\button.scala.html (to format this file, update `project.excludeFilters` in .scalafmt.conf)
+2026.11.08 22:32:00 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\views\components\ui\button.scala.html. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.08 22:34:29 INFO  no build target found for C:\Users\franc\Desktop\elevatormanager\app\controllers\HomeController.scala. Using presentation compiler with project's scala-library version: 3.3.8
