@@ -21,3 +21,4 @@ POST /login     controllers.AuthController.login()
 
 
 #ROUTE DE DASHBORD
+GET /dashbord       controllers.UtilisateurController.dashbord()

@@ -37,6 +37,7 @@
           class="w-full lg:w-1/2 bg-surface-container-low flex flex-col items-center justify-center p-4 sm:p-8 lg:p-12 overflow-y-auto">
           <div class="w-full max-w-[480px] bg-surface-container-lowest rounded-xl shadow-xl p-6 sm:p-8 my-auto">
             <!-- Header with Resident Badge -->
+          @components.feedback.flash()
           @components.forms.formHeader(
             title    = "Créer un comptes",
             subtitle = Some("Accédez au réseau d'ascenseurs de votre résidence"),
@@ -76,7 +77,8 @@
                 placeholder = "+237 6 12 34 56 78",
                 icon = Some("call"),
                 required = false,
-                value = telephone
+                value = telephone,
+                error = passwordError
               )
 
               <!-- Passwords (Side by side) REUSE-->

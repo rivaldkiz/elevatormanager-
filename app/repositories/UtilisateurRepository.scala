@@ -158,7 +158,7 @@ class UtilisateurRepository @Inject() (
       sql"""
         SELECT ID_ROLE
         FROM ROLE
-        WHERE CODE = $code
+        WHERE NOM_ROLE = $code
       """.as[Long]
     ).map(_.headOption)
   }
@@ -193,6 +193,16 @@ class UtilisateurRepository @Inject() (
         )
       """
     )
+  }
+
+  def findRoleById(idRole: Long): Future[Option[String]] = {
+    val query = sql"""
+    SELECT NOM_ROLE
+    FROM ROLE
+    WHERE ID_ROLE = $idRole
+  """.as[String].headOption
+
+    db.run(query)
   }
 
 }

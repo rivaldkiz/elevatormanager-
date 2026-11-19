@@ -36,9 +36,9 @@ class AuthController @Inject() (
     val telephone =
       request.body.get("telephone").flatMap(_.headOption).getOrElse("")
     val motDePasse =
-      request.body.get("motDePasse").flatMap(_.headOption).getOrElse("")
+      request.body.get("password").flatMap(_.headOption).getOrElse("")
     val confirmation = request.body
-      .get("confirmationMotDePasse")
+      .get("confirmPassword")
       .flatMap(_.headOption)
       .getOrElse("")
 
@@ -94,21 +94,79 @@ class AuthController @Inject() (
     }
   }
 
-  def login = Action { implicit request =>
-    Ok("Bonjour")
-    // val email = request.body.get("email").flatMap(_.headOption).getOrElse("")
-    // val motDePasse =
-    //   request.body.get("motDePasse").flatMap(_.headOption).getOrElse("")
+  // AUTHENTIFICATION
+  def login = Action.async(parse.formUrlEncoded) { implicit request =>
+    val email = request.body.get("email").flatMap(_.headOption).getOrElse("")
+    val motDePasse =
+      request.body.get("password").flatMap(_.headOption).getOrElse("")
 
-    // authService.connexion(email, motDePasse).map {
-    //   case Right(utilisateur) =>
-    //     Redirect("/dashboard")
-    //       .withSession("userId" -> utilisateur.idUser.get.toString)
-    //       .flashing("success" -> "Connexion réussie.")
+//définition des erreurs
+    val emailError =
+      if (email.trim.isEmpty)
+        Some("L'adresse email est obligatoire.")
+      else if (!email.trim.matches("^[A-Za-z0-9+_.-]+@[A-Za-z0-9.-]+$"))
+        Some("L'adresse email est invalide.")
+      else None
 
-    //   case Left(erreur) =>
-    //     Redirect("/login")
-    //       .flashing("error" -> erreur)
-    // }
+    val passwordError =
+      if (motDePasse.isEmpty)
+        Some("Le mot de passe est obligatoire.")
+      else None
+
+// verification des entrées
+    if (emailError.isDefined || passwordError.isDefined) {
+
+      Future.successful(
+        BadRequest(
+          views.html.auth.login(
+            email = email,
+            emailError = emailError,
+            passwordError = passwordError
+          )
+        )
+      )
+
+    } else {
+
+// appel du service et la méthode authentifier
+      authService.authentifier(email, motDePasse).map {
+
+        case Some(utilisateur) =>
+          utilisateur.idUser match {
+            case Some(id) =>
+              Redirect("/dashbord")
+                .withSession(
+                  "userId" -> id.toString,
+                  "roleId" -> utilisateur.idRole.toString
+                )
+                .flashing("success" -> "Vous avez été connecté avec succès.")
+
+            case None =>
+              BadRequest(
+                views.html.auth.login(
+                  email = email,
+                  emailError = None,
+                  passwordError = Some("Impossible de récupérer votre compte.")
+                )
+              )
+          }
+
+        case None =>
+          BadRequest(
+            views.html.auth.login(
+              email = email,
+              emailError = None,
+              passwordError = Some("Email ou mot de passe incorrect.")
+            )
+          )
+      }
+    }
   }
+
+// deconnexion
+  def logout = Action {
+    Redirect("/login").withNewSession
+      .flashing("success" -> "Vous avez été déconnecté avec succès.")
+  }
+
 }

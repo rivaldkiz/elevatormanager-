@@ -167,4 +167,27 @@ class AuthService @Inject() (
     }
   }
 
+  def findRoleById(idRole: Long): Future[Option[String]] = {
+    utilisateurRepository.findRoleById(idRole)
+  }
+
+  // def verifierRole(idUser: Long, roleAttendu: String): Future[Boolean] = {
+
+  //   findById(idUser).flatMap {
+
+  //     case Some(utilisateur) =>
+  //       findRoleById(utilisateur.idRole).map {
+
+  //         case Some(role) =>
+  //           role == roleAttendu
+
+  //         case None =>
+  //           false
+  //       }
+
+  //     case None =>
+  //       Future.successful(false)
+  //   }
+  // }
+
 }

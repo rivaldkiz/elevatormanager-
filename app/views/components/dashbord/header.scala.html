@@ -1,0 +1,64 @@
+@*
+  Barre de navigation principale de LiftManager.
+
+  Paramètres :
+    utilisateur          : utilisateur connecté (models.Utilisateur)
+    roleNom              : NOM_ROLE (ADMIN, RESIDENT, TECHNICIEN, SUPERVISEUR)
+    notificationsNonLues : nombre de NOTIFICATION avec lu = 0
+    pageActive           : page courante ("notifications" active la cloche)
+
+  Utilisation :
+    @components.header(utilisateur, roleNom, nbNonLues, "notifications")
+*@
+
+@(utilisateur: models.Utilisateur, roleNom: String, notificationsNonLues: Int, pageActive: String = "")
+
+@* Seul endroit à adapter si vos URL changent *@
+@defining(roleNom match {
+  case "ADMIN"       => "/admin/dashboard"
+  case "TECHNICIEN"  => "/technicien/dashboard"
+  case "SUPERVISEUR" => "/superviseur/dashboard"
+  case _             => "/resident/dashboard"
+}) { dashboardUrl =>
+@defining(pageActive == "notifications") { notifActive =>
+
+<header class="fixed top-0 left-0 right-0 z-50 bg-surface-container-lowest border-b border-outline-variant">
+  <div class="h-16 w-full max-w-[1100px] mx-auto px-gutter flex items-center justify-between">
+
+    @* Logo : renvoie vers le tableau de bord correspondant au rôle *@
+    <a class="flex items-center gap-space-sm text-primary" href="@dashboardUrl">
+      <div class="w-9 h-9 rounded-lg bg-primary-container text-on-primary flex items-center justify-center">
+        <span class="material-symbols-outlined text-[20px]">elevator</span>
+      </div>
+      <span class="font-headline-sm text-headline-sm tracking-tight text-primary">LiftManager</span>
+    </a>
+
+    <div class="flex items-center gap-space-lg">
+
+      @* Notifications : lien vers la page, état actif si on s'y trouve *@
+      <a href="/notifications"
+         @if(notifActive){aria-current="page"}
+         aria-label="Notifications@if(notificationsNonLues > 0){ (@notificationsNonLues non lues)}"
+         class="relative flex items-center justify-center w-10 h-10 rounded-full transition-colors @if(notifActive){bg-surface-container-low text-primary}else{text-on-surface-variant hover:bg-surface-container-low hover:text-on-surface}">
+        <span class="material-symbols-outlined text-[22px]">notifications</span>
+        @if(notificationsNonLues > 0) {
+          <span class="absolute top-1.5 right-1.5 min-w-[16px] h-4 px-1 rounded-full bg-error text-on-error font-label-sm text-[10px] leading-4 text-center font-bold flex items-center justify-center">@(if (notificationsNonLues > 99) "99+" else notificationsNonLues.toString)</span>
+        }
+      </a>
+
+      @* Utilisateur connecté *@
+      <div class="flex items-center gap-space-sm pl-space-sm border-l border-outline-variant">
+        <div class="w-8 h-8 rounded-full bg-primary flex items-center justify-center">
+          <span class="material-symbols-outlined text-on-primary text-[18px]">person</span>
+        </div>
+        <span class="font-label-md text-label-md text-on-surface select-none">@utilisateur.nom</span>
+      </div>
+
+      <a class="font-label-md text-label-md text-on-surface-variant hover:text-error transition-colors px-space-sm py-space-xs rounded-DEFAULT"
+         href="/logout">Déconnexion</a>
+    </div>
+  </div>
+</header>
+
+}
+}
