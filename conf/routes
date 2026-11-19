@@ -9,9 +9,15 @@
 # Map static resources from the /public folder to the /assets URL path
 GET     /assets/*file               controllers.Assets.versioned(path="/public", file: Asset)
 
-GET /       controllers.UserController.index()
-GET /create    controllers.UserController.create()
+#GET /      controllers.UserController.index()
+#GET /create    controllers.UserController.create()
 
 #ROUTES D'AUTHENTIFICATION
-#POST /register                       controller.AuthController.register()
-#POST /login                       controller.AuthController.login()
+GET /register   controllers.AuthController.to_register()
+GET /login      controllers.AuthController.to_login()
+
+POST /register  controllers.AuthController.register()
+POST /login     controllers.AuthController.login()
+
+
+#ROUTE DE DASHBORD

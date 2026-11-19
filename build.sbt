@@ -10,12 +10,16 @@ scalaVersion := "2.13.18"
 libraryDependencies += guice
 libraryDependencies += "org.playframework" %% "play-slick" % "6.1.0" // or your current version
 libraryDependencies += "org.scalatestplus.play" %% "scalatestplus-play" % "7.0.2" % Test
+libraryDependencies += "org.mindrot" % "jbcrypt" % "0.4"
 
 // Adds the Slick dependencies
 libraryDependencies ++= Seq(
+  guice,
+  jdbc,
   "com.typesafe.slick" %% "slick" % "3.5.2",
   "com.typesafe.slick" %% "slick-hikaricp" % "3.5.2",
-  "com.oracle.database.jdbc" % "ojdbc11" % "23.6.0.24.10"
+  "com.oracle.database.jdbc" % "ojdbc11" % "21.5.0.0",
+  "org.mindrot" % "jbcrypt" % "0.4"
 )
 
 // Adds additional packages into Twirl

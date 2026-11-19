@@ -1,0 +1,132 @@
+error id: file:///C:/Users/franc/Desktop/elevatormanager/app/views/auth/register.scala.html:
+file:///C:/Users/franc/Desktop/elevatormanager/app/views/auth/register.scala.html
+empty definition using pc, found symbol in pc: 
+empty definition using semanticdb
+empty definition using fallback
+non-local guesses:
+
+offset: 171
+uri: file:///C:/Users/franc/Desktop/elevatormanager/app/views/auth/register.scala.html
+text:
+```scala
+@(
+  fullNameValue: String = "",
+  erreur: Option[String] = None,
+  emailValue: String = "",
+  emailError: Option[String] = None
+)(implicit request: RequestHeader)
+n@@om,
+            email,
+            telephone,
+            nomError,
+            emailError,
+            passwordError,
+            confirmationError
+
+@main("register"){
+   <main class="w-full min-h-screen bg-background">
+    <div class="flex flex-col w-full">
+      <div class="flex flex-col lg:flex-row w-full min-h-screen">
+
+        @components.ui.authPanel(
+          brandName    = "LiftManager",
+          brandTagline = "Espace Résident",
+          heading      = "Rejoignez LiftManager",
+          description  = "Créez votre compte résident pour appeler un ascenseur en quelques clics et piloter vos trajets sans attente.",
+          badge        = Some("key" -> "Portail d'accès résidentiel sécurisé"),
+          features     = Seq(
+            ("near_me", "Appelez un ascenseur depuis votre étage",
+              "Demande de cabine instantanée sans contact physique ni manipulation d'écran tactile collectif."),
+            ("radar", "Suivez son arrivée en direct",
+              "Affichage de la position exacte et du temps d'attente estimé de chaque cabine de votre colonne."),
+            ("notifications_active", "Recevez des notifications",
+              "Alerte sonore ou push dès que votre cabine assignée arrive à votre palier d'embarquement.")
+          ),
+          footerLabel  = Some("Système Résident v2.4"),
+          statusLabel  = Some("Services Connectés")
+        )
+        
+        <!-- RIGHT PANEL: Registration Form (50% desktop) -->
+        <div
+          class="w-full lg:w-1/2 bg-surface-container-low flex flex-col items-center justify-center p-4 sm:p-8 lg:p-12 overflow-y-auto">
+          <div class="w-full max-w-[480px] bg-surface-container-lowest rounded-xl shadow-xl p-6 sm:p-8 my-auto">
+            <!-- Header with Resident Badge -->
+          @components.forms.formHeader(
+            title    = "Créer un comptes",
+            subtitle = Some("Accédez au réseau d'ascenseurs de votre résidence"),
+            badge    = Some("home_pin" -> "Résident")
+          )
+
+            <!-- Form -->
+            @components.forms.simpleForm(routes.AuthController.register) {
+               <!-- Field: Nom complet -->
+              @components.forms.inputField(
+                name = "nom",
+                label = "Nom complet",
+                placeholder = "Jean Dupont",
+                icon = Some("person"),
+                required = true
+              )
+
+               <!-- Field: Email -->
+              @components.forms.inputField(
+                name = "email",
+                label = "Adresse e-mail",
+                inputType = "email",
+                placeholder = "jean.dupont@example.com",
+                required = true
+              )
+
+              <!-- Field: Téléphone -->
+
+              @components.forms.inputField(
+                name = "telephone",
+                label = "Téléphone",
+                inputType = "tel",
+                placeholder = "+237 6 12 34 56 78",
+                icon = Some("call"),
+                required = false
+              )
+
+              <!-- Passwords (Side by side) REUSE-->
+              @components.forms.passwordGroup(
+                name = "password",
+                label = "Mot de passe",
+                placeholder = "Saisissez un mot de passe",
+                required = true,
+                withConfirm = true,
+                confirmName = "confirmPassword",
+                confirmLabel = "Confirmation",
+                confirmError = None,
+                withStrength = true
+              )
+
+              
+            }
+
+            <!-- Card Footer / Link to Login REUSE --> 
+
+          @components.forms.authFooterLink(
+            promptText = "Déjà un compte ?",
+            linkLabel = "Se connecter",
+            href = "/login"
+          )
+          </div>
+
+          <!-- Small Bottom Note REUSE-->
+          <p class="mt-6 text-center font-body-sm text-body-sm text-outline">
+            © LiftManager, projet académique. Télé-opération d'ascenseurs intelligents.
+          </p>
+
+        </div>
+      </div>
+    </div>
+  </main>
+
+}
+```
+
+
+#### Short summary: 
+
+empty definition using pc, found symbol in pc: 

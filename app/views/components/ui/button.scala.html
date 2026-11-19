@@ -1,0 +1,18 @@
+@(
+  label: String,
+  icon: Option[String] = Some("arrow_forward"),
+  btnType: String = "submit",
+  fullWidth: Boolean = true,
+  extraClasses: String = ""
+)
+
+<div class="pt-2">
+  <button
+    class="@(if(fullWidth) "w-full" else "px-6") h-12 rounded-lg bg-secondary hover:bg-secondary-container text-on-secondary font-label-lg text-label-lg transition duration-150 flex items-center justify-center gap-2 shadow-md active:scale-[0.99] @extraClasses"
+    type="@btnType">
+    <span>@label</span>
+    @icon.map { iconName =>
+      <span class="material-symbols-outlined text-xl">@iconName</span>
+    }
+  </button>
+</div>

@@ -1,0 +1,21 @@
+@(
+  action: Call,
+  style: Option[String] = None
+)(content: Html)(implicit request: RequestHeader)
+
+
+<form action="@action.url" method="@action.method" class="space-y-5 @style.getOrElse("")" novalidate>
+  @if(action.method.equalsIgnoreCase("POST")) {
+    @helper.CSRF.formField
+  }
+
+  @content
+
+ @components.ui.button(
+    label = "Créer un compte",
+    icon = Some("arrow_forward"),
+    btnType = "submit",
+    fullWidth = true,
+    extraClasses = "mt-4"
+  )
+</form>

@@ -1,0 +1,15 @@
+@(
+  promptText: String,
+  linkLabel: String,
+  href: String
+)
+
+
+<div class="mt-6 pt-5 bg-surface-container-low/60 -mx-6 sm:-mx-8 -mb-6 sm:-mb-8 px-6 sm:px-8 py-4 rounded-b-xl flex items-center justify-center text-center">
+  <p class="font-body-md text-body-md text-on-surface-variant">
+    @promptText
+    <a class="font-label-md text-label-md text-secondary font-semibold hover:underline ml-1" href="@href">
+      @linkLabel
+    </a>
+  </p>
+</div>
